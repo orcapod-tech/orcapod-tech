@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Orcapod:
 We are working on Odoo Apps.<br><br>At Orcapod, we develop and publish high-quality Odoo modules and IT solutions <br>that empower businesses worldwide. <br>We contribute to the open-source community while delivering premium apps.
 
 
